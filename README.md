@@ -3,6 +3,12 @@ Introduction to Github
 
 # Goal 1
 
-Provide studetns with a modern toolset for using computational chemistry to understand their research
+Provide students with a modern toolset for using computational chemistry to understand their research
 
+# Goal 2 
 
+Make a theory manual for the Vazquez lab
+
+# Goal 3
+
+Get better at theory

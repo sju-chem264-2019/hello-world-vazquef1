@@ -1,8 +1,14 @@
 # hello-world
 Introduction to Github
 
-This is a cool thing I am writing
+# Goal 1
 
-# Look, a heading
+Provide students with a modern toolset for using computational chemistry to understand their research
 
-**Bold!**
+# Goal 2 
+
+Make a theory manual for the Vazquez lab
+
+# Goal 3
+
+Get better at theory

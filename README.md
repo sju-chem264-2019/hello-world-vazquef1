@@ -1,8 +1,8 @@
 # hello-world
 Introduction to Github
 
-This is a cool thing I am writing
+# Goal 1
 
-# Look, a heading
+Provide studetns with a modern toolset for using computational chemistry to understand their research
 
-**Bold!**
+

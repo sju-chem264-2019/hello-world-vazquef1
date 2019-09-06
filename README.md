@@ -12,3 +12,7 @@ Make a theory manual for the Vazquez lab
 # Goal 3
 
 Get better at theory
+
+# This is a NEW HEADING
+
+
